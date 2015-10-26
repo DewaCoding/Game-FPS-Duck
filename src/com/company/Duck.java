@@ -14,6 +14,7 @@ public class Duck {
     /**
      * How much time must pass in order to create a new duck?
      */
+
     public static long timeBetweenDucks = Framework.secInNanosec / 2;
     /**
      * Last time when the duck was created.
